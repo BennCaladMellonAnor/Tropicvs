@@ -1,0 +1,7 @@
+Log/relatorio de Informações arquivadas no site.
+	- Toda e qualquer alteração de usuarios.
+	- Detalhes do tipo de alteração feita.
+	- Relatorio contendo data.
+	- Será exibido temporariamente no Sidebar L/R.
+	- E Arquivado em um Arquivo de Log no Archive.
+	- Com data/hora e @Usuario.
